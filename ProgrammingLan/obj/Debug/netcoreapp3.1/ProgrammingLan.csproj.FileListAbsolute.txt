@@ -1,0 +1,14 @@
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\bin\Debug\netcoreapp3.1\ProgrammingLan.exe
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\bin\Debug\netcoreapp3.1\ProgrammingLan.deps.json
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\bin\Debug\netcoreapp3.1\ProgrammingLan.runtimeconfig.json
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\bin\Debug\netcoreapp3.1\ProgrammingLan.runtimeconfig.dev.json
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\bin\Debug\netcoreapp3.1\ProgrammingLan.dll
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\bin\Debug\netcoreapp3.1\ProgrammingLan.pdb
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\obj\Debug\netcoreapp3.1\ProgrammingLan.csproj.AssemblyReference.cache
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\obj\Debug\netcoreapp3.1\ProgrammingLan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\obj\Debug\netcoreapp3.1\ProgrammingLan.AssemblyInfoInputs.cache
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\obj\Debug\netcoreapp3.1\ProgrammingLan.AssemblyInfo.cs
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\obj\Debug\netcoreapp3.1\ProgrammingLan.csproj.CoreCompileInputs.cache
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\obj\Debug\netcoreapp3.1\ProgrammingLan.dll
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\obj\Debug\netcoreapp3.1\ProgrammingLan.pdb
+C:\Users\Fatime\source\repos\Generic\ProgrammingLan\obj\Debug\netcoreapp3.1\ProgrammingLan.genruntimeconfig.cache
